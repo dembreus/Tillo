@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "All-in-one booking app",
   "main": "index.js",
-  "repository": "https://github.com/dembreus/Tillo.git",
+  "repository": "https://github.com/dembreus/Trillo.git",
   "author": "Dillon Embreus <35782813+dembreus@users.noreply.github.com>",
   "license": "MIT",
   "private": false,
